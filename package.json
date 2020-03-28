@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/austingardner/hapi-food-ratings/issues"
   },
-  "homepage": "https://github.com/austingardner/hapi-food-ratings#readme"
+  "homepage": "https://github.com/austingardner/hapi-food-ratings#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  }
 }
